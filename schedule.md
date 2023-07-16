@@ -1323,8 +1323,7 @@ print(tvm.lower(s, [A, B], simple_mode=True))
     }
   }
 }
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+
 
 ---------cutting line---------
 @main = primfn(A_1: handle, B_1: handle) -> ()
